@@ -27,11 +27,6 @@
 ## Sobre mim
 
 Sou desenvolvedor Full Stack e estudante de Ciência da Computação na UTFPR. Tenho experiência criando aplicações web, mobile e APIs, participando de decisões de arquitetura e da evolução de produtos.
-
-Na Orion Aerospace, fui promovido de Analista de Software a Diretor de Computação Acadêmica e liderei uma equipe multidisciplinar no desenvolvimento de uma plataforma educacional com React, Next.js e Django.
-
-Gosto de transformar requisitos em soluções bem estruturadas, colaborar com equipes e aprender tecnologias na prática.
-
 ## Tecnologias
 
 **Linguagens**  
@@ -61,18 +56,6 @@ Projeto de medição e previsão de desempenho de redes Wi-Fi usando Python e Ma
 ### MemoTask
 Aplicativo Flutter para tarefas e lembretes, com autenticação por usuário, integração com Firebase e calendário e foco em usabilidade.
 
-> Adicione os links dos repositórios nos títulos dos projetos quando eles estiverem publicados no GitHub.
-
-## Experiência
-
-**Orion Aerospace** · Ponta Grossa, PR  
-*Diretor de Computação Acadêmica e Analista de Software · 2023–2025*
-
-- Promovido de Analista a Diretor e responsável pela liderança de uma equipe multidisciplinar.
-- Desenvolvimento Full Stack de uma plataforma de estudos online com fóruns, avaliações e integração entre alunos e professores.
-- Desenvolvimento do Front-end com React e Next.js e do Back-end com Django.
-- Participação em decisões de arquitetura, organização do código e evolução do produto.
-
 ## Formação
 
 **Bacharelado em Ciência da Computação**  
@@ -80,7 +63,7 @@ UTFPR — Câmpus Ponta Grossa
 
 ## Idiomas
 
-**Inglês** · C2 — em andamento
+**Inglês** · C2 
 
 ## GitHub
 
