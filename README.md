@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Mizael Simão
 
@@ -34,60 +34,92 @@ Gosto de transformar requisitos em soluções bem estruturadas, colaborar com eq
 
 ## Tecnologias
 
-**Linguagens**  
+**Linguagens**
+
 Python · Java · JavaScript · TypeScript · Dart · HTML · CSS
 
-**Frameworks e plataformas**  
+**Frameworks e plataformas**
+
 React · Next.js · NestJS · Django · Flutter · Vite
 
-**Dados e infraestrutura**  
+**Dados e infraestrutura**
+
 PostgreSQL · Prisma · Redis · Firebase · Docker · Linux
 
-**Conceitos**  
+**Conceitos**
+
 APIs REST · JWT · Argon2 · SQL · Modelagem relacional · POO · TCP/IP · Machine Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,react,nextjs,nestjs,django,flutter,postgres,redis,docker,linux,git" alt="Ícones das tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,react,nextjs,nestjs,django,flutter,postgres,prisma,redis,firebase,docker,linux,git,vite&perline=9" alt="Ícones das tecnologias" />
 </div>
 
 ## Projetos em destaque
 
 ### PayFlow
 
-API de simulação de pagamentos construída com NestJS, Prisma, PostgreSQL e Redis. Implementa fluxo idempotente, Outbox transacional, processamento em fila e webhooks.
+[![PayFlow](https://img.shields.io/badge/GitHub-PayFlow-181717?style=flat-square&logo=github)](https://github.com/CaptLuckyTiger/PayFlow)
+
+API de simulação de pagamentos construída com NestJS, Prisma, PostgreSQL e Redis.
+
+Implementa fluxo idempotente, Outbox transacional, processamento em filas e webhooks.
+
+**Tecnologias:** NestJS · Prisma · PostgreSQL · Redis · BullMQ · JWT
 
 ### TCC — Desempenho de Wi-Fi residencial
 
-Projeto de medição e previsão de desempenho de redes Wi-Fi usando Python e Machine Learning. Inclui coleta de dados em planta baixa e comparação de modelos; o Random Forest apresentou o melhor resultado entre os modelos avaliados.
+Projeto de medição e previsão de desempenho de redes Wi-Fi utilizando Python e Machine Learning.
+
+Inclui coleta de dados em planta baixa, análise de métricas de rede e comparação de modelos preditivos. O Random Forest apresentou o melhor resultado entre os modelos avaliados.
+
+**Tecnologias:** Python · Machine Learning · Pandas · Scikit-learn
 
 ### MemoTask
 
-Aplicativo Flutter para tarefas e lembretes, com autenticação por usuário, integração com Firebase e calendário e foco em usabilidade.
+Aplicativo Flutter para gerenciamento de tarefas e lembretes, com autenticação por usuário, integração com Firebase e calendário, priorizando organização e usabilidade.
 
-[Ver repositórios no GitHub](https://github.com/CaptLuckyTiger?tab=repositories)
+**Tecnologias:** Flutter · Dart · Firebase
 
+<div align="center">
+  <a href="https://github.com/CaptLuckyTiger?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Ver projetos" />
+  </a>
+</div>
 
 ## Formação
 
-**Bacharelado em Ciência da Computação**  
-UTFPR — Câmpus Ponta Grossa
+**Bacharelado em Ciência da Computação**
+
+Universidade Tecnológica Federal do Paraná — UTFPR, Câmpus Ponta Grossa.
 
 ## Idiomas
 
-**Inglês** · C2 
+- **Português:** Nativo
+- **Inglês:** C2
 
-## GitHub
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/CaptLuckyTiger?label=Seguidores&style=for-the-badge&logo=github&color=181717)
-![Repositórios públicos](https://img.shields.io/github/repos/CaptLuckyTiger?label=Reposit%C3%B3rios%20p%C3%BAblicos&style=for-the-badge&logo=github&color=181717)
-
-<br />
-
-<a href="https://github.com/CaptLuckyTiger?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20meus%20projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Ver meus projetos no GitHub" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=CaptLuckyTiger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
 </a>
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaptLuckyTiger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+</a>
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="60%" src="https://streak-stats.demolab.com?user=CaptLuckyTiger&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
+
+<br/>
+
+![Seguidores](https://img.shields.io/github/followers/CaptLuckyTiger?label=Seguidores&style=for-the-badge&logo=github&color=181717)
 
 </div>
 
