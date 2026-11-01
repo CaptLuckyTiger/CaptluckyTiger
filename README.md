@@ -28,8 +28,6 @@
 
 Sou desenvolvedor Full Stack e estudante de Ciência da Computação na UTFPR. Tenho experiência criando aplicações web, mobile e APIs, participando de decisões de arquitetura e da evolução de produtos.
 
-Na Orion Aerospace, fui promovido de Analista de Software a Diretor de Computação Acadêmica e liderei uma equipe multidisciplinar no desenvolvimento de uma plataforma educacional com React, Next.js e Django.
-
 Gosto de transformar requisitos em soluções bem estruturadas, colaborar com equipes e aprender tecnologias na prática.
 
 ## Tecnologias
